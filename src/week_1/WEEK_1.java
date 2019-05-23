@@ -19,6 +19,9 @@ public class WEEK_1 {
         // TODO code application logic here
         System.out.println("hello!!");
      System.out.println("fuck off...");
+     System.out.println("hatt..");
+     
+     System.out.println("haan-haan malum hai baap ko mat sikha...");
     }
     
 }
